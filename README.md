@@ -11,8 +11,9 @@ An extension for chrome to hide the annoying thumbnails from youtube.
 | ![Youtube video with annoying thumbnails](img/before.png "Youtube video with annoying thumbnails")  | ![Youtube video without annoying thumbnails](img/after.png "Youtube video without annoying thumbnails") |
 ## Usage 
 
-1. Just download or clone this repository.
-1. (Using developer mode in chrome) Add the extension by pointing to the directory.
+1. Just download the [released zip](https://github.com/artolajon/RemoveThumbnails/releases/tag/v1.0.0).
+1. Extract it somewhere in your pc
+1. (Using developer mode in chrome) Add the extension by pointing to its directory.
 1. Done :)
 
 ## Icon author
